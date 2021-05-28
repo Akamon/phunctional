@@ -1,4 +1,4 @@
-# sort
+# to_array
 
 ## Description
 Transform a possible iterator to an array
